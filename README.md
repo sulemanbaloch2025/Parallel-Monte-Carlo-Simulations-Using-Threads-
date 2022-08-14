@@ -1,4 +1,4 @@
-# Parallel_Monte_Carlo_Simulations_Using_Threads
+# Parallel-Monte-Carlo-Simulations-Using-Threads
 Implementing parallel Monte Carlo simulations while practicing threads
 
 Project Instructions:
